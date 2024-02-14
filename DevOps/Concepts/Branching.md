@@ -30,7 +30,7 @@ During this process, the main branch should always be production ready. Branch p
 ## Naming convention
 - It is recommended to have some naming convention in the creation of branches. This facilitates the maintenance and provide visibility of the usage of these branches. 
 - Common organization structure
-  - _master_ branch is often the main branch residing at the root level
+  - _main_ branch is often the main branch residing at the root level
     - root level branches are considered important branches
   - _feature/user/workitemID-description_ are often used to house work that is happening during a sprint
     - these are folder level branches that should be very short-lived
