@@ -26,3 +26,12 @@ These objectives will be targeted towards getting AVD automated within a pipelin
 - Create an issue, and link a change to the issue
 - Create a repository with a branch rule requiring reviewers and a passing build to complete a Pull Request merge 
 - Create a workflow to build, publish artifacts, and then download the artifacts
+
+### Resource
+
+- [Using environments for deployment and Required reviewers](https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment)
+- [Using environments for jobs](https://docs.github.com/en/actions/using-jobs/using-environments-for-jobs)
+- [Deploying to Azure](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-python-to-azure-app-service)
+- [Using artifacts](https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts)
+- [Link issues to change](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+- [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)
